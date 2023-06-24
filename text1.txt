@@ -1,0 +1,4 @@
+names=krishna murari pandey
+mobile= 9696481081
+mail= krishna.murari2020@vitbhopsl.ac.in
+department=cse core
